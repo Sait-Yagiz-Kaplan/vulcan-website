@@ -28,7 +28,7 @@ export default function FooterSection() {
         <div>
           <h3 className="text-white font-bold mb-4">Hakkımızda</h3>
           <ul className="space-y-2 text-gray-400 text-sm">
-            <li><Link href="/hakkimizda">Hakkımızda</Link></li>
+            <li><Link href="/kurumsal/hakkimizda">Hakkımızda</Link></li>
             <li><Link href="/iletisim">İletişim</Link></li>
           </ul>
         </div>
